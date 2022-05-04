@@ -5,6 +5,7 @@ import Search from './components/Search';
 function App() {
   return (
   <>
+  <h1>Youtube</h1>
    <Search />
   </>
   );
